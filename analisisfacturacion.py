@@ -1,9 +1,10 @@
+'''-Autor: Israel Martínez González -工丂尺闩㠪㇄ ᗪ闩ㄒ闩-.
+-Fecha: Noviembre 2025.
+-Estado del proyecto: Versión 1.1.0.
+-Descripción del Proyecto: Primer Challenges ONE, Analisis de tiendas en archivos CSV.
+-Para ejecutarlo: Intalar con pip pandas matplotlib numpy para poder ejecutarlo en Python 3.12.12.
 
-# Autor: -工丂尺闩㠪㇄ ᗪ闩ㄒ闩-
-# Creado: Noviembre 2025.
-# Versión: 1.0.1
-# Descripción: Análisis de tiendas para el Challenge 1 de Ciencia de Datos - Alura Latam.
-# Repositorio base: https://github.com/israel-data
+-Ï̗̮̪S̖̜͚͉̜̽͌R̞̟͌̊̾̋Ä̤́̂̚E̺̭̹͖͆̈͋̈́̈́͑̋͑͑ͅ D̽Ä̤̝̦́̂̚ȚͬÄ̤́̂̚    '''
 
 import pandas as pd
 import matplotlib.pyplot as plt
